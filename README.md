@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Firoz Khan
 
-### 🚀 Full-Stack Web Developer | React • Node.js • MongoDB
+### 🚀 Full-Stack Web Developer | React • Node.js • MongoDB • SQL • Next.js • Typescript
 
 🌐 Portfolio: https://firozkhan.site
 
